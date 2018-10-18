@@ -1,4 +1,5 @@
-#Security System
+#Security system built on Windows IoT Core
+
 
 
 Home security systems are a growing field of projects for Makers. A self-built system is not only less expensive than a bulky professional installation, but it also allows for total control and customization to suit your needs. 
